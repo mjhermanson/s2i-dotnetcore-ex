@@ -18,7 +18,7 @@ a {
   border-color: #1861ac;
 }
 
-.main {
+main {
   background: url("../img/redhat.svg") no-repeat fixed center;
   margin-bottom: 50%; 
 }
