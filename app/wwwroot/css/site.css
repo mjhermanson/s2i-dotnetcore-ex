@@ -19,7 +19,7 @@ a {
 }
 
 .main {
-  background: url("../img/redhat.logo") no-repeat fixed center;
+  background: url("../img/redhat.svg") no-repeat fixed center;
   margin-bottom: 50%; 
 }
 
