@@ -18,8 +18,9 @@ a {
   border-color: #1861ac;
 }
 
-.container {
-  background-color: #333;
+.main {
+  background: url("../img/redhat.logo") no-repeat fixed center;
+  margin-bottom: 50%; 
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
