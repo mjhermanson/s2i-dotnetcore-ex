@@ -18,12 +18,12 @@ a {
   border-color: #1861ac;
 }
 
-/*main {
+main {
   background: url("../img/redhat.svg") no-repeat fixed center;
   margin-bottom: 10%;
   background-size: contain;
   height: 500px;
-*/}
+}
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
